@@ -1,4 +1,4 @@
-<extension xmlns="http://ns.adobe.com/air/extension/3.8">
+<extension xmlns="http://ns.adobe.com/air/extension/16.0">
 <id>pl.mateuszmackowiak.nativeANE.NativeDialogs</id>
 <versionNumber>1</versionNumber>
 <platforms>
